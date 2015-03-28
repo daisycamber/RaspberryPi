@@ -2,10 +2,10 @@ This is the output of the ifconfig command:
 eth0      Link encap:Ethernet  HWaddr b8:27:eb:ad:19:a1  
           inet addr:10.0.1.8  Bcast:10.0.1.255  Mask:255.255.255.0
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:16570 errors:12 dropped:0 overruns:0 frame:0
-          TX packets:7593 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:17913 errors:12 dropped:0 overruns:0 frame:0
+          TX packets:8296 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:11754698 (11.2 MiB)  TX bytes:2836845 (2.7 MiB)
+          RX bytes:11857317 (11.3 MiB)  TX bytes:2935930 (2.7 MiB)
 
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
